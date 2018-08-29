@@ -34,7 +34,7 @@ echo "\033[34;1m  18\033[37;1m.\033[32;1mWeeman\033[37;1m"
 echo "\033[34;1m  19\033[37;1m.\033[32;1mD-TECT\033[37;1m"
 echo "\033[34;1m  20\033[37;1m.\033[32;1mHammer\033[37;1m"
 echo "\033[34;1m  21\033[37;1m.\033[32;1mKatoolin\033[37;1m"
-echo "\033[34;1m  22\033[37;1m.\033[32;1mTeleponan Di Termux\033[37;1m"
+echo "\033[34;1m  22\033[37;1m.\033[32;1mTelp Pakai Termux\033[37;1m"
 echo "\033[34;1m  23\033[37;1m.\033[32;1mMembuat Tulisan Figlet\033[37;1m"
 echo "\033[34;1m  24\033[37;1m.\033[32;1mXerxes\033[37;1m"
 echo "\033[34;1m  25\033[37;1m.\033[32;1mMain Moon-Buggy\033[37;1m"
@@ -409,7 +409,7 @@ sleep 1
 pkg install termux-api
 echo "\033[32;1mTelepon Sekarang!?!"
 echo "\033[34;1m"
-read -p "Masukan Nomor Yg Dituju!?! (Pakai=62/0)= " Tlpn1
+read -p "Masukan Nomor Yg Dituju !!! (Pakai=62/0)= " Tlpn1
 termux-telephony-call $Tlpn1
 fi
 
