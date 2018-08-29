@@ -2,7 +2,7 @@ clear
 python2 yuhu.py
 sleep 2
 echo "\033[32;1m"
-echo "Tools Yg Sering Dipakai.. Sabar Bujang..!!!"
+echo "Tools Yg Sering Dipakai..... Sabar Bujang.....!!!"
 sleep 3
 clear
 echo ""
@@ -11,6 +11,7 @@ echo ""
 echo "\033[32;1m   ~\033[32;1m  Author    : Mr.Oyek"
 echo "\033[32;1m   ~\033[32;1m  Version   : 1.0"
 echo "\033[32;1m   ~\033[32;1m  Team      : IND CYBER ARMY"
+echo "\033[32;1m   ~\033[32;1m  Feat      : Mr.P47R1K"
 echo ""
 echo "\033[34;1m{$}\033[37;1m=================================\033[34;1m{$}"
 echo "\033[34;1m  1 \033[37;1m.\033[32;1mLITEDDOS\033[37;1m"
