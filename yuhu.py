@@ -2,7 +2,7 @@ import os, sys
 
 print ("\033[1;33m")
 Username = 'MrOyek'
-Password = 'GuaGansThx'
+Password = 'MHL'
 
 def restart():
 	relog = sys.executable
